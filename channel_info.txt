@@ -3,5 +3,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Disney XD | Youtube Live | https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg | 
-https://www.youtube.com/live/lTjkFcVlypQ
+Phineas And Ferb | Youtube Live | https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg | 
+https://youtu.be/LzyEOtAXneA?si=OB7_V26m0d3qkwnb
