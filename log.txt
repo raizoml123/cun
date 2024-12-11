@@ -1,2 +1,4 @@
 2024-12-11 12:42:19,404 - debug - URL Streams https://www.youtube.com/live/lTjkFcVlypQ: {}
 2024-12-11 12:42:19,404 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/lTjkFcVlypQ
+2024-12-11 12:47:00,286 - debug - URL Streams https://www.youtube.com/live/lTjkFcVlypQ: {}
+2024-12-11 12:47:00,286 - warning - Unreachable or unsupported URL: https://www.youtube.com/live/lTjkFcVlypQ
