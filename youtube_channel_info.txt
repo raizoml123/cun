@@ -1,0 +1,10 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+
+
+
+Disney XD | Youtube Live | https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg | 
+https://www.youtube.com/live/lTjkFcVlypQ
